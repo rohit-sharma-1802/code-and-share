@@ -89,7 +89,7 @@ function FormComponent() {
         <div className="flex w-full max-w-[500px] flex-col items-center justify-center gap-4 p-4 sm:w-[500px] sm:p-8">
             <h1 className="text-4xl sm:text-5xl">Code and Share</h1>
             <p className="mb-4 text-center md:mb-8">
-                {"Code, Chat, Collaborate. It's All in Sync."}
+                {"Write code and explain with drawing."}
             </p>
             <form onSubmit={joinRoom} className="flex w-full flex-col gap-4">
                 <input
